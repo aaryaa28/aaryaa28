@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 About Me
-I'm a Full Stack Web Developer passionate about technology, F1 🏎️ and cars 🚗. I'm currently pursuing a degree at KCCEMSR, set to graduate in 2026, where I actively lead initiatives as an NSS Leader.
+I'm a Full Stack Web Developer passionate about technology. I'm currently pursuing a degree at KCCEMSR, set to graduate in 2026, where I actively lead initiatives as an NSS Leader.
 
 - 🔭 Currently a SWE Fellow at Headstarter
 - 🌱 Learning NextJS, Tailwind, AWS Services, and Docker
