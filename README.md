@@ -6,14 +6,14 @@ I’m interested in understanding how systems work, how they fail, and how to bu
 
 
 ## 💫 About Me
-
+ ```text
 -🎓 Final-year Computer Engineering student with an Honors specialization in Cybersecurity
 -🛡️ Passionate about cybersecurity, networking, and building secure systems
 -🔐 Security Analyst Intern with experience in WAF monitoring and web security
 -💻 Building projects in Python, Java, C++, Linux, and distributed systems
 -🚀 Aavishkar 2025 Finalist for SmartNav, an AI-powered autonomous wheelchair
 -🌱 Currently exploring penetration testing, cloud security, and malware analysis
-
+```
 ## 🛠️ Tech Stack
 
 ### Programming Languages
